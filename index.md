@@ -8,3 +8,8 @@ Utan stranda Saltmýrar er að mestu ókannað haf, eyjaklasar með yfirgefnar f
 
 - [Borgir og bæjir](cities.md)
 - [Factions](factions.md)
+
+
+
+### Þessi síða
+Beinn hlekkur á síðuna: [https://thdg.github.io/Saltmarsh/](https://thdg.github.io/Saltmarsh/)
