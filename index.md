@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Velkominn í Saltmýri
 
-You can use the [editor on GitHub](https://github.com/thdg/Saltmarsh/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Saltmýri er staðsett við ystu mörk Keólands. 
+Utan stranda Saltmýrar er að mestu ókannað haf, eyjaklasar með yfirgefnar fornmynjar, ættbálka og verur sem hafa verið í litlu eða engu sambandi við okkar heim. 
+Þar sigla um höfin sjóræningjar undir flöggum [Sjóprinsanna](factions.md#sjóprinsarnir) milli kaupmanna og ferðalanga frá framandi slóðum.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Á þessum síðum er hisnsvegar hægt að finna allt sem ferðalangar gætu þurft að vita um Saltmýri og nágrenni. 
 
-### Markdown
+- [Borgir og bæjir](cities.md)
+- [Factions](factions.md)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Saltmýri
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+Saltmýri er staðsett við syðri strendur Keólands. 
+Þótt Saltmýri hafi upphaflega verið miklvægur hluti af Keólandi hafa ítök konungsins minnkað eftir því sem landamærin færðust lengra norður inn í land. Eftir að hafa verið að mestu leiti yfirgefin af konungsdæminu gegnum síðustu kynslóðir hafa heimamenn séð um að hald lög og reglu í bænum og vernda hann frá óvinveittu aðkomufólki.
+Vegna einangrunar frá konungsdæminu og óstýrláts nágrenni hefur Saltmýri orðið að heimili fyrir flóttamenn og minnihlutahópa í leit að öruggu hæli.
+Það hefur hinsvegar líka dregið til sín glæpagengi, smyglara og aðra vandræðagemsa.
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+#### Upplýsingar
 
-### Jekyll Themes
+- **Staðsetning:** Suðurströnd Keólands
+- **Íbúafjöldi:** 5.000 íbar
+- **Helstu tekjulindir**: Fiskveiðar, vöruskipti, smygl, námugröftur
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thdg/Saltmarsh/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### Áhugaverðir staðir
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
