@@ -2,7 +2,7 @@
 
 > [Heim](index.md)
 
-Hér eru taldar upp þær lykilstöður, og ábyrgð þeirra, sem hver áhöfn þarf að hafa innanborðs til að samræma reglum Sjómannabandalagsins.
+Hér eru taldar upp þær lykilstöður, og ábyrgð þeirra, sem hver áhöfn þarf að hafa innanborðs til að samræmast reglum Sjómannabandalagsins.
 Brot á þessum reglum, sem og bort í starfi, skal umsvifalaust tilkynna til Sjómannabandalagsins og skal sá sem ber ábyrgð á sektaður samkvæmt reglugerðum bandalagsins. 
 
 ## Skipstjóri
@@ -18,7 +18,7 @@ Sér um að halda utan um áhöfnina ásamt því að sjá til þess að stjórn
 Ávallt skilyrði.
 Getur verið sami og skipstjóri
 
-## Sæfari (skilyrði)
+## Sæfari
 
 Sér um að reikna út stefnu skipsins og halda henni.
 
