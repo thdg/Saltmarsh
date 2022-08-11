@@ -1,5 +1,7 @@
 # Hópar og fylkingar
 
+> [Heim](index.md)
+
 ## Sjóprinsarnir
 
 Ekki mikið er vitað um Sjóprinsana sjálfa eða hve margir þeir eru.
