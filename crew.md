@@ -7,7 +7,7 @@ Brot á þessum reglum, sem og bort í starfi, skal umsvifalaust tilkynna til Sj
 
 ## Skipstjóri
 
-Tekur ákvarðanir um stefnu skipsins og markmið. Ber helstu ábyrgð á skipinu sjálfu og sem og öllu og öllum innanborðs.
+Skipar fyrir og tekur ákvarðanir um stefnu skipsins og markmið. Ber helstu ábyrgð á skipinu sjálfu sem og öllu og öllum innanborðs.
 
 Ávallt skilyrði.
 
