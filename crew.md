@@ -29,32 +29,32 @@ Getur verið sami og liðþjálfi
 
 Sér um að ákvarða, fylla á og kaupa matarbirgðir skipsins ásamt því að elda fyrir áhöfnina.
 
-Skylirði ef áhöfn telur 5 manns eða fleiri.
+Skilyrði ef áhöfn telur 5 manns eða fleiri.
 
 ## Læknir
 
 Sér um heilsu áhafnarinnar á sjó sem og á landi.
 
-Skylirði ef áhöfn telur 5 manns eða fleiri.
+Skilyrði ef áhöfn telur 5 manns eða fleiri.
 
 
 ## Prestur
 
 Sér um andlega og trúarlega heilsu áhafnarinnar á sjó sem og á landi.
 
-Skylirði ef áhöfn telur 5 manns eða fleiri.
+Skilyrði ef áhöfn telur 5 manns eða fleiri.
 Getur verið sami og læknir.
 
 ## Smiður 
 
 Sér um viðhald skipsins og viðgerðir á því.
 
-Skylirði ef skip er lengra en 20 fet.
+Skilyrði ef skip er lengra en 20 fet.
 Getur verið sami og sæfari.
 
 ## Seglameistari
 
 Sér um viðhald og viðgerðir á seglum skipsins.
 
-Skylirði ef skip er með segl.
+Skilyrði ef skip er með segl.
 Getur verið sami og smiður.
