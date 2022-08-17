@@ -6,8 +6,8 @@ Additionally the table shows which classes gain martial proficiency in what simp
 
 | Class     | Weapon        |
 |:----------|:--------------|
-| Bard      | Dagger, Dart, Sling |
-| Druid     | Club, Greatclub, Quarterstaff, Dart, Sling |
+| Bard      | Dagger, Handaxe, Javelin, Light Hammer, Dart, Shortbow, Sling |
+| Druid     | Club, Greatclub, Quarterstaff, Sickle, Dart, Sling |
 | Monk      | Dagger, Handaxe, Javelin, Light Hammer, Quarterstaff, Sickle, Dart, Sling |
 | Rogue     | Dagger, Dart, Crossbow (light) |
 
@@ -18,14 +18,14 @@ Additionally the table shows which classes gain martial proficiency in what simp
 | Dagger         | Sneaky, Compact |
 | Greatclub      | Knocking |
 | Handaxe        | Compact |
-| Javelin        | ??? |
+| Javelin        | Compact (meelee only) |
 | Light Hammer   | Compact |
 | Mace           | Knocking |
 | Quarterstaff   | Knocking |
 | Sickle         | Ensnaring |
 | Spear          | Knocking |
 | Crossbow, ligh | Silent, Compact |
-| Dart           | Silent |
+| Dart           | Silent, Sneaky |
 | Shortbow       | Compact |
 | Sling          | Silent |
 
@@ -34,18 +34,19 @@ Additionally the table shows which classes gain martial proficiency in what simp
 
 When you are prone and make a weapon attack with this weapon, you do not suffer disadvantage for being prone.
 
-### Nonleathal
-
-When nocking a creature 
-
-### Silent
-
-When you are hidden and attacking with this weapon you do not reveal your position but stay hidden.
-
 ### Ensnairing
 
-When you attempt to disarm a creature using a weapon with the ensnaring property, you do not have disadvantage on the roll if the target is larger than you.
+When you hit with a ensnairing weapon you can use your bonus action to attempt to grapple the target or disarm it (DMG page 271).
+When you attempt to disarm a creature with this weapon you do not have disadvantage on the roll if the target is larger than you.
 
 ### Knocking
 
-When you hit with an knocking weapon, you can use your bonus action to attempt to shove the target prone or shove it 5 feet away from you, or disarm it (DMG page 271).
+When you hit with an knocking weapon you can use your bonus action to attempt to shove the target prone, 5 feet away from you or disarm it (DMG page 271).
+
+### Silent
+
+When you are hidden and attack with this weapon you can choose to stay hidden.
+
+### Sneaky
+
+This weapon is deadly against a distracted foe. When you deal damage with this weapon while hidden you may re-roll any 1s on the damage dice, taking the new roll instead.
