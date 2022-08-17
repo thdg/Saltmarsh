@@ -1,8 +1,8 @@
 # Additional weapon rules
 
-When you gain martial proficiency in a simple weapon the weapon gains additional properties.
-When you gain proficiency in all martial weapons, you automatically gain martial proficency in all simple weapons.
-Additionally the table shows which classes gain martial proficiency in what simple weapons.
+When you gain martial proficiency with a simple weapon the weapon gains additional properties.
+When you gain proficiency with all martial weapons, you automatically gain martial proficency with all simple weapons.
+Additionally, the follwing table shows which classes automatically gain martial proficiency with which simple weapons.
 
 | Class     | Weapon        |
 |:----------|:--------------|
@@ -11,6 +11,8 @@ Additionally the table shows which classes gain martial proficiency in what simp
 | Monk      | Dagger, Handaxe, Javelin, Light Hammer, Quarterstaff, Sickle, Dart, Sling |
 | Rogue     | Dagger, Dart, Crossbow (light) |
 
+
+## Martial properties
 
 | Weapon         | Martial property |
 |:---------------|:--------------|
