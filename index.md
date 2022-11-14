@@ -12,6 +12,7 @@ Utan stranda Saltmýrar er að mestu ókannað haf, eyjaklasar með yfirgefnar f
 ### Lög og reglur
 
 - [Reglugerð Sjómannabandalagsins um áhöfn skipa](crew.md)
+- [Verkefni um borð skipa](sailing.md)
 - [Áflog á hafi](fightingatsea.md)
 - [Kænska með einföld vopn](weaponrules.md)
 
