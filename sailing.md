@@ -1,6 +1,6 @@
 # Verkefni um borð
 
-## Almenn verkefni á syglingu
+## Almenn verkefni á siglingu
 
 - **Skipstjóri (Survival, Water vehicles):** Sér um að velja stenfu skipsins, halda henni og skipa fyrir um vendingar og breytingu segla.
 - **Liðþjálfi (Persuation, Intimidate):** Sér um að hver áhafnarmeðlimur hafi verkefni og sinni því
