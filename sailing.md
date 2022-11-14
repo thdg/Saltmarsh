@@ -2,8 +2,8 @@
 
 ## Almenn verkefni á siglingu
 
-- **Skipstjóri (Survival, Water vehicles):** Sér um að velja stenfu skipsins, halda henni og skipa fyrir um vendingar og breytingu segla.
-- **Liðþjálfi (Persuasion, Intimidation):** Sér um að hver áhafnarmeðlimur hafi verkefni og sinni því
+- **Skipstjóri (Water vehicles, Survival, Performance, History, Investigation):** Sér um að velja stenfu skipsins, halda henni og skipa fyrir um vendingar og breytingu segla.
+- **Liðþjálfi (Persuasion, Intimidation, Performance):** Sér um að hver áhafnarmeðlimur hafi verkefni og sinni því
 - **Sæfari/kortafræðingur (Survival, Nature, Navigation tools, Cartographer’s tools):** Sér um að ákvarða bestu leiðina m.t.t. veður og vinda
 - **Skáti (Perception, Investigation):** Fylgist með landi og skipum við sjóndeildarhringinn
 
