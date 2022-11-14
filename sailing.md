@@ -9,13 +9,13 @@
 
 Þessi listi er ekki tæmandi yfir verkefnin á sjónum og það er ekki alltaf nauðsynlegt að þau séu öll mönnuð. Stjórnandi mun taka ákvörðun um hvaða verkefnum þarf að sinna hverju sinni eftir stærð skipsins og aðstæðum. 
 
-Skip geta verið hálfmönnuð eðe fullmönnuð. Hálfmannað skip fær -2 á öll DC sem kemur við stjórn skipsins (Skipsjróri, Liðþjálfi, Hásetar, Ræðarar).
+Skip geta verið hálfmönnuð eðe fullmönnuð. Hálfmannað skip fær -2 á öll DC sem kemur að stjórn skipsins (Skipsjróri, Liðþjálfi, Hásetar, Ræðarar).
 
 ## Árabátar
 
 Á árabátum bætast við eftirfarandi verkefni auk almennra verkefna:
 
-- Ræðari: Róar bátnum
+- **Ræðari (Athletics):** Róar bátnum
 
 #### Hálf áhöfn
 - 1 ræðari á hvert sæti
@@ -28,7 +28,7 @@ Skip geta verið hálfmönnuð eðe fullmönnuð. Hálfmannað skip fær -2 á �
 
 Á seglskipum bætast við eftirfarandi verkefni auk almennra verkefna:
 
-- Háseti (Athletics, Acrobatics): Sér um að hífa upp segl, sleppa seglum og stilla segling
+- **Háseti (Athletics, Acrobatics):** Sér um að hífa upp segl, sleppa seglum og stilla segling
 
 #### Hálf áhöfn
 
@@ -52,7 +52,7 @@ Verkefni sem fylgja þessum störfum líta að langtíma heilsu og styrk áhafna
 - **Prestur:** Sér um andlega heilsu áhafnarinnar
 - **Læknir:** Sér um líkamlega heilsu áhafnarinnar
 
-Heilsa áhafnarinnar er mæld í hollustu (sjá *Hollusta*) og hefur áhrif á störf Skipstjóra og Liðþjálfa
+Heilsa áhafnarinnar er mæld í hollustu (sjá *Hollusta*) og hefur áhrif á störf **Skipstjóra** og **Liðþjálfa**
 
 #### Hollusta
 
@@ -70,8 +70,9 @@ Fari hollusta undir 0 stig er hætt við að áhöfn geri uppreisn og krefjist �
 - **Smiður**: Sér um að laga skemmdir á skipinu
 - **Seglameistari**: Sér um að laga slitin segl og reipi
 
-Ástand skipsins hefur áhrif á störf: Skipstjóra, Liðþjálfa, og Sæfara/Kortafræðings
-Ástand segla hefur áhrif á störf: Skipstjóra, Liðþjálfa, Sæfara/Kortafræðings og Háseta
+Ástand skipsins hefur áhrif á störf **Skipstjóra**, **Liðþjálfa**, og **Sæfara/Kortafræðings**.
+
+Ástand segla hefur áhrif á störf **Skipstjóra**, **Liðþjálfa**, **Sæfara/Kortafræðings** og **Háseta**.
 
 | DC mod			| +2				| +4				|
 |:------------------|------------------:|------------------:|
@@ -84,9 +85,11 @@ Fari hollusta undir 0 stig er hætt við að áhöfn geri uppreisn og krefjist �
 
 Veðrið á sjónum er margbreytilegt og getur verið hvoru tveggja stillt og háskasamt.
 
-Skyggni: Hefur áhfirf á störf **skipstjóra** og **skáta** 
-Vindstyrkur: Hefur áhrif á störf **sæfara** og **háseta**
-Úrkoma: Hefur áhrif á störf **skáta** og **háseta**
+Skyggni: Hefur áhfirf á störf **skipstjóra** og **skáta**.
+
+Vindstyrkur: Hefur áhrif á störf **sæfara** og **háseta**.
+
+Úrkoma: Hefur áhrif á störf **skáta** og **háseta**.
 
 | DC mod		| +2				| -2				|
 |:--------------|------------------:|------------------:|
