@@ -40,6 +40,18 @@ Skip geta verið hálfmönnuð eðe fullmönnuð. Hálfmannað skip fær -2 á �
 - 1 hæfur maður við stýri
 - 3 hásetar á hverju segli
 
+## Herskip
+
+Á skipi með fallbyssum bætast við eftirfarandi verkefni:
+
+#### Hálf áhöfn
+
+- 1 fallbyssuskytta á hverja fallbyssu í notkun
+
+#### Full áhöfn
+
+- 2 fallbyssuskyttur á hverja fallbyssu í notkun
+
 ## Aðrir þættir
 
 ### Heilsa áhafnarinnar
