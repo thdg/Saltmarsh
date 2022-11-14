@@ -3,9 +3,9 @@
 ## Almenn verkefni á siglingu
 
 - **Skipstjóri (Survival, Water vehicles):** Sér um að velja stenfu skipsins, halda henni og skipa fyrir um vendingar og breytingu segla.
-- **Liðþjálfi (Persuation, Intimidate):** Sér um að hver áhafnarmeðlimur hafi verkefni og sinni því
-- **Sæfari/kortafræðingur (Navigation tools):** Sér um að ákvarða bestu leiðina m.t.t. veður og vinda
-- **Skáti (Perception):** Fylgist með landi og skipum við sjóndeildarhringinn
+- **Liðþjálfi (Persuasion, Intimidation):** Sér um að hver áhafnarmeðlimur hafi verkefni og sinni því
+- **Sæfari/kortafræðingur (Survival, Nature, Navigation tools, Cartographer’s tools):** Sér um að ákvarða bestu leiðina m.t.t. veður og vinda
+- **Skáti (Perception, Investigation):** Fylgist með landi og skipum við sjóndeildarhringinn
 
 Þessi listi er ekki tæmandi yfir verkefnin á sjónum og það er ekki alltaf nauðsynlegt að þau séu öll mönnuð. Stjórnandi mun taka ákvörðun um hvaða verkefnum þarf að sinna hverju sinni eftir stærð skipsins og aðstæðum. 
 
@@ -28,7 +28,7 @@ Skip geta verið hálfmönnuð eðe fullmönnuð. Hálfmannað skip fær -2 á �
 
 Á seglskipum bætast við eftirfarandi verkefni auk almennra verkefna:
 
-- **Háseti (Athletics, Acrobatics):** Sér um að hífa upp segl, sleppa seglum og stilla segling
+- **Háseti (Athletics, Acrobatics, Slight of hand):** Sér um að hífa upp segl, sleppa seglum og stilla segling
 
 #### Hálf áhöfn
 
@@ -60,9 +60,9 @@ Góður kokkur, prestur eða læknir getur haft örlagarík áhrif á heilsu og 
 Verkefni sem fylgja þessum störfum líta að langtíma heilsu og styrk áhafnarinnar.
 Það eru til aðrar leiðir til að hafa áhrif á áhöfnina sem ekki eru listaðar hér upp. Spilarar eru hvattir til að koma með uppástungur eftir hentugleika, t.d. mætti spila eða syngja til að hafa áhrif á andann í skipinu.
 
-- **Kokkur:** Sér um að áhöfnin sé vel étin og með fulla orku
-- **Prestur:** Sér um andlega heilsu áhafnarinnar
-- **Læknir:** Sér um líkamlega heilsu áhafnarinnar
+- **Kokkur (Brewr's supplies, Cook's utensils):** Sér um að áhöfnin sé vel étin og með fulla orku
+- **Prestur (Insight, Religion, History):** Sér um andlega heilsu áhafnarinnar
+- **Læknir (Medicine, Healer's kit):** Sér um líkamlega heilsu áhafnarinnar
 
 Heilsa áhafnarinnar er mæld í hollustu (sjá *Hollusta*) og hefur áhrif á störf **Skipstjóra** og **Liðþjálfa**
 
@@ -79,8 +79,8 @@ Fari hollusta undir 0 stig er hætt við að áhöfn geri uppreisn og krefjist �
 
 ### Ástand skipsins
 
-- **Smiður**: Sér um að laga skemmdir á skipinu
-- **Seglameistari**: Sér um að laga slitin segl og reipi
+- **Smiður (Athletics, Carpender's tools, Smith’s tools)**: Sér um að laga skemmdir á skipinu
+- **Seglameistari (Slight of Hand, Weaver’s tools)**: Sér um að laga slitin segl og reipi
 
 Ástand skipsins hefur áhrif á störf **Skipstjóra**, **Liðþjálfa**, og **Sæfara/Kortafræðings**.
 
