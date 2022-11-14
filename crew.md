@@ -18,7 +18,7 @@ Sér um að halda utan um áhöfnina ásamt því að sjá til þess að stjórn
 Ávallt skilyrði.
 Getur verið sami og skipstjóri
 
-## Sæfari
+## Sæfari/kortafræðingur
 
 Sér um að reikna út stefnu skipsins og halda henni.
 
