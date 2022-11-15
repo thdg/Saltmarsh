@@ -2,14 +2,18 @@
 
 ## Almenn verkefni á siglingu
 
-- **Skipstjóri (Water vehicles, Survival, Performance, History, Investigation):** Sér um að velja stenfu skipsins, halda henni og skipa fyrir um vendingar og breytingu segla.
+- **Skipstjóri (Water vehicles, History, Investigation, Performance, Persuation, Intimidation)
+:** Sér um að velja stenfu skipsins, halda henni og skipa fyrir um vendingar og breytingu segla.
 - **Liðþjálfi (Persuasion, Intimidation, Performance):** Sér um að hver áhafnarmeðlimur hafi verkefni og sinni því
 - **Sæfari/kortafræðingur (Survival, Nature, Navigation tools, Cartographer’s tools):** Sér um að ákvarða bestu leiðina m.t.t. veður og vinda
 - **Skáti (Perception, Investigation):** Fylgist með landi og skipum við sjóndeildarhringinn
 
 Þessi listi er ekki tæmandi yfir verkefnin á sjónum og það er ekki alltaf nauðsynlegt að þau séu öll mönnuð. Stjórnandi mun taka ákvörðun um hvaða verkefnum þarf að sinna hverju sinni eftir stærð skipsins og aðstæðum. 
 
-Skip geta verið hálfmönnuð eðe fullmönnuð. Hálfmannað skip fær -2 á öll DC sem kemur að stjórn skipsins (Skipsjróri, Liðþjálfi, Hásetar, Ræðarar).
+Skip geta verið hálfmönnuð eðe fullmönnuð. 
+Hálfmannað skip fær -2 á allar þrekraunir sem kemur að stjórn skipsins (Skipsjróri, Liðþjálfi, Hásetar, Ræðarar).
+
+**ATH:** Skipstjóri er sá sem stendur við stýrið hverju sinni. Í öðrum orðum, þá er kapteinninn oftast skipstjórinn en skipstjórinn er ekki alltaf kapteinninn.
 
 ## Árabátar
 
@@ -18,10 +22,10 @@ Skip geta verið hálfmönnuð eðe fullmönnuð. Hálfmannað skip fær -2 á �
 - **Ræðari (Athletics):** Róar bátnum
 
 #### Hálf áhöfn
-- 1 ræðari á hvert sæti
+- 1 ræðari á hverjum bekk
 
 #### Full áhöfn
-- 2 ræðarar á hvert sæti
+- 2 ræðarar á hverjum bekk
 
 
 ## Seglskip
@@ -32,12 +36,12 @@ Skip geta verið hálfmönnuð eðe fullmönnuð. Hálfmannað skip fær -2 á �
 
 #### Hálf áhöfn
 
-- 1 hæfur maður við stýri
+- 1 skipstjóri við stýrið
 - 1 háseti á hverju segli
 
 #### Full áhöfn
 
-- 1 hæfur maður við stýri
+- 1 skipstjóri við stýrið
 - 3 hásetar á hverju segli
 
 ## Herskip
@@ -68,9 +72,9 @@ Heilsa áhafnarinnar er mæld í hollustu (sjá *Hollusta*) og hefur áhrif á s
 
 #### Hollusta
 
-Heilsa áhafnarinnar er mæld í hollustustigum. 
-Við eðlilegar áðstæður er hollustan í 10 stigum. Atburðir og stjórnarhættir á skipinu geta haft áhrif á hollustuna. Slæmur matur, mikið álag, slæm heilsa og skelfilegir atburðir geta haft dvínandi áhrif á hollustu áfhafnarinnar. Að sama skapi má auka hollustu áhafnarinnar með góðum mat, skemmtun, fjársjóðsfundum og öðrum sigrum.
-Fari hollusta undir 0 stig er hætt við að áhöfn geri uppreisn og krefjist þess að nýr skipstjóri taki við stjórn.
+Heilsa og ánægja áhafnarinnar er mæld í hollustustigum. 
+Við eðlilegar áðstæður er hollustan í 10 stigum og byrjar þannig. Hollustan getur ekki farið yfir 20 stig eða minna en 0 stig. Atburðir og stjórnarhættir á skipinu geta haft áhrif á hollustuna. Slæmur matur, mikið álag, slæm heilsa og skelfilegir atburðir geta haft dvínandi áhrif á hollustu áfhafnarinnar. Að sama skapi má auka hollustu áhafnarinnar með góðum mat, skemmtun, fjársjóðsfundum og öðrum sigrum.
+Fari hollustan í 0 stig er hætt við að áhöfn geri uppreisn og krefjist þess að nýr skipstjóri taki við stjórn.
 
 | Hollusta	| <6 stig 	| >14 stig 	|
 |:----------|----------:|----------:|
@@ -99,12 +103,25 @@ Veðrið á sjónum er margbreytilegt og getur verið hvoru tveggja stillt og h�
 
 Skyggni: Hefur áhfirf á störf **skipstjóra** og **skáta**.
 
-Vindstyrkur: Hefur áhrif á störf **sæfara** og **háseta**.
+Vindstyrkur: Hefur áhrif á störf **sæfara** og **háseta** ef segl eru í notkun.
 
 Úrkoma: Hefur áhrif á störf **skáta** og **háseta**.
 
-| DC mod		| +2				| -2				|
-|:--------------|------------------:|------------------:|
-| Skyggni		| Slæmt				| Gott				|
-| Vindstyrkur	| Mikill			| Lítill			|
-| Úrkoma		| Mikil				| Lítill			|
+| Skyggni	| DC mod |
+|-----------|-------:|
+| Gott 		| -2 	 |
+| Venjulegt | 0 	 |
+| Slæmt		| +2 	 |
+
+| Vindstyrkur	| DC mod |
+|---------------|-------:|
+| Logn			| +2 	 |
+| Gola		 	| 0 	 |
+| Stormur		| +2 	 |
+
+| Úrkoma	| DC mod |
+|-----------|-------:|
+| Engin 	| 0		 |
+| Lítil 	| 0 	 |
+| Mikil		| +2 	 |
+

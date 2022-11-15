@@ -5,7 +5,7 @@
 Hér eru taldar upp þær lykilstöður, og ábyrgð þeirra, sem hver áhöfn þarf að hafa innanborðs til að samræmast reglum Sjómannabandalagsins.
 Brot á þessum reglum, sem og bort í starfi, skal umsvifalaust tilkynna til Sjómannabandalagsins og skal sá sem ber ábyrgð á sektaður samkvæmt reglugerðum bandalagsins. 
 
-## Skipstjóri
+## Kapteinn
 
 Skipar fyrir og tekur ákvarðanir um stefnu skipsins og markmið. Ber helstu ábyrgð á skipinu sjálfu sem og öllu og öllum innanborðs.
 
@@ -16,7 +16,7 @@ Skipar fyrir og tekur ákvarðanir um stefnu skipsins og markmið. Ber helstu á
 Sér um að halda utan um áhöfnina ásamt því að sjá til þess að stjórnbúnaður, áttaviti og þess háttar sé í góðu lagi.
 
 Ávallt skilyrði.
-Getur verið sami og skipstjóri
+Getur verið sami og kapteinn
 
 ## Sæfari/kortafræðingur
 
