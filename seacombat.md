@@ -1,15 +1,22 @@
 # Áflog á hafi
 
 Bardagar milli skipa á siglingu skiptast í tvo fasa, siglingabardaga og þilfarsbardaga.
-Að öllu jafna byrjar bardaginn í siglingarfasanum, þar sem skipin eru í meira en 60 feta fjarlægð frá hvort öðru. Hver hringur í Þessum fasa er ein mínúta.
+Öllu jafna byrj bardagar í siglingarbardaga, þar sem skipin eru í meira en 60 feta fjarlægð frá hvort öðru. 
+Hver hringur í þeim fasa er ein mínúta í staðinn fyrir 6 sekúndur eins og venjulega.
 
-Þegar skipin komast í návígi við hvort annað breytist bardaginn í þilfarsbardaga sem er spilaður eins og hefðbundinn bardagi með nokkrum viðbótum. Þilfarsbardagar endast í að minnsta kosti 10 hringi, þar með talinn einn hringur áður en skipin skella á hvort annað.
+Þegar skipin komast í návígi við hvort annað breytist bardaginn í þilfarsbardaga sem er spilaður eins og hefðbundinn bardagi með nokkrum viðbótum. 
+Þilfarsbardagar endast í að minnsta kosti 10 hringi, þar með talinn einn hringur áður en skipin skella á hvort annað.
+Þegar þilfarsbardagi endar er aftur skipt yfir í siglingabardaga.
 
 **ATH:** Hér er ýmist notað kapteinn eða skipstjóri. Skipstjóri er sá sem stendur við stýrið hverju sinni. Kapteinn er sá sem ber titilinn Kapteinn á skipinu. Í öðrum orðum, þá er kapteinninn oftast skipstjórinn en skipstjórinn er ekki alltaf kapteinninn.
 
 ## Siglingabardagi
 
 Siglingabardaginn er spilaður á rúðuneti með sex hliða rúðum.
+Bardaginn er spilaður þannig að hver Kapteinn tekur initiative fyrir skipið sitt.
+Öll áhöfnin á hverju skipi gerir á sama tíma.
+Ekki er gerð krafa um að áhöfnin geri í ákveðinni röð né í sömu röð í hverjum hring.
+
 Skip tilheyra ákveðnum flokki skipa. Flokkurinn ákvarðar hæfni skipsins til að breyta stefnu og hraða.
 
 Hraði skipa er ákvarðaður út frá stefnu skipsins ásamt styrk og stefnu vinda.
@@ -75,7 +82,10 @@ Ef skip eða vera er tveimur stærðum minni en árásaraðilinn er skaðinn min
 
 ## Þilfarsbardagi
 
-Fyrsti hringurinn í hverjum þilfarsbardaga er undibúningstími sem skipverjar geta notað til að ganga frá köðlum, seglum, koma sér í stöðu og átta sig á aðstæðum. Þennan hring má nota til að stylla sér upp í skipinu og gera verk sem hafa áhrif innan skipsins. Undanteknig er gefin frá þessu þegar áhafnarmeðlimur sinnti ekki neinu verki á skipinu í síðasta hring. 
+Þilfarsbardagi er spilaður eftir hefðbundnum reglum í bardaga.
+Fyrsti hringurinn í hverjum þilfarsbardaga er undibúningstími sem skipverjar geta notað til að ganga frá köðlum, seglum, koma sér í stöðu og átta sig á aðstæðum. 
+Þennan hring má nota til að stylla sér upp í skipinu og gera verk sem hafa áhrif innan skipsins. 
+Undanteknig er gefin frá þessu þegar áhafnarmeðlimur sinnti ekki neinu verki á skipinu í síðasta hring. 
 
 Þilfarsbardagi endar eftir 10 hringi og skipt er yfir í siglingabardaga nema:
 - Skip séu föst saman og hörfandi skip nær ekki að slíta sig laust
